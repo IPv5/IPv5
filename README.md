@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **donationbuycraft@gmail.com**
 
-- ⚡ Fun fact **I use a 60% keyboard.**
+- ⚡ Fun fact **I use a 60% keyboard**
 
 
 <h3 align="left">Languages and Tools:</h3>
