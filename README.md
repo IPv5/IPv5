@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **DAPP Applications**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 💬 Ask me about **Minecraft Development**
 
