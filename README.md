@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipv5&label=Profile%20views&color=0e75b6&style=flat" alt="ipv5" /> </p>
 
-- 🔭 I’m currently working on **Minecraft Java Plugins**
+- 🔭 I’m currently working as a **Full Stack Developer**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **Minecraft Development**
-
-- 📫 How to reach me **donationbuycraft@gmail.com**
+- 📫 How to reach me **anthonysimone.work@gmail.com**
 
 - ⚡ Fun fact **I use a 60% keyboard**
 
